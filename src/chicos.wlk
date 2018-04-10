@@ -5,7 +5,7 @@ object macaria {
 	var disfraces = []
 	var caramelos = 0
 method hacerEnojar(){
-	//aumenta su nivel de ira cuando lo hacen enojar
+	///aumenta su nivel de ira cuando lo hacen enojar
 }
 method capacidadSusto(){
 	return nivelIra+ self.sumatoria() 
